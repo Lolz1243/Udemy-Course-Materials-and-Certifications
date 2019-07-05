@@ -1,0 +1,43 @@
+Section 1 (Prerequisite Installations & Setup):
+
+Links to prerequisite software - https://www.james-willett.com/running-gatling-through-gradle
+Fiddler HTTP Proxy Download Link - https://www.telerik.com/download/fiddler
+Postman Chrome Extension - https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en
+Video Game DB Github Repo - https://github.com/james-willett/VideoGameDB
+Football Data API Homepage - https://www.football-data.org/index
+
+Section 2 (Preparing Your Framework):
+
+Updated code for Football API v2 - https://github.com/james-willett/RestAssuredFundamentals/blob/master/src/test/java/config/TestConfig.java
+
+
+Section 3 (Different Request Types):
+
+Updated code for Football API v2 - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/FootballTests.java
+
+Section 4 (Assert and Extract from the Response Body):
+
+Updated code for Football API v2 - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/FootballTests.java
+Updated code ... - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/FootballTests.java
+Updated code ... - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/FootballTests.java
+Updated code ... - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/FootballTests.java
+
+Section 5 (Serialization, Schema Validation, & Measuring Response Time):
+
+Convert JSON to POJO - http://pojo.sodhanalibrary.com/
+XSD Schema Generator - https://www.freeformatter.com/xsd-generator.html#ad-output
+JSON Schema Generator - https://jsonschema.net/#/
+
+Section 6 (Using Groovy GPath for JSON in REST Assured):
+
+Introduction to GPath in REST Assured - http://james-willett.com/2017/05/groovy-gpath-in-rest-assured-part1-overview/
+Updated code for Football API v2 - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/GPathJSONTests.java
+Updated code ... - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/GPathJSONTests.java
+Updated code ... - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/GPathJSONTests.java
+Blog post on using GPath JSON - http://james-willett.com/2017/05/rest-assured-gpath-json/
+Updated code ... - https://github.com/TechieTester/RestAssuredFundamentals/blob/master/src/test/java/GPathJSONTests.java
+
+Section 8 (Authentication):
+REST Assured Usage Guide for Authentication - https://github.com/rest-assured/rest-assured/wiki/Usage#authentication
+REST Assured Usage Guide for SSL - https://github.com/rest-assured/rest-assured/wiki/Usage#ssl
+REST Assured Wiki - https://github.com/rest-assured/rest-assured/wiki
