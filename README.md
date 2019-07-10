@@ -10,5 +10,4 @@ A collection of all Udemy course materials and certifications from training, wor
 * Complete Elasticsearch Masterclass with Logstash and Kibana ([Udemy](https://fidelity.udemy.com/complete-elasticsearch-masterclass-with-kibana-and-logstash/), [Certificate](https://github.com/Lolz1243/Complete-Elasticsearch-Masterclass-with-Logstash-and-Kibana/blob/master/Certificate%20of%20Completion.pdf))
 
 ## Courses In Progress:
-
 * Machine Learning, Data Science and Deep Learning with Python ([Udemy](https://fidelity.udemy.com/data-science-and-machine-learning-with-python-hands-on/))
